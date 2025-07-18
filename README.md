@@ -1,5 +1,4 @@
 # Target-Intelmatix-Retail-Dashboards
-# Target Foot Traffic Forecasting Dashboard
 
 **Contributors:** Nishthaben Vaghani, Hinal Sachpara, Darpan Radadiya, Manideep Mallurwar  
 **Institution:** Northeastern University – ALY6080: Integrated Experiential Learning  
@@ -83,21 +82,6 @@ Each dashboard serves a real-world planning function such as staffing, inventory
 - Improve **resource allocation**, infrastructure planning, and **localized targeting**
 - Enhance Intelmatix’s EDIX platform with behavioral intelligence
 
----
-
-##  Folder Structure
-
-intelmatix-xn-project/
-│
-├── target_dashboard/ # Visit forecasting for Target
-├── ulta_dashboard/ # Customer segmentation for Ulta
-├── tesla_dashboard/ # EV siting planner
-├── ad_dashboard/ # Ad optimization tool
-├── data/ # All cleaned datasets
-├── visuals/ # Key plots, maps, heatmaps
-├── final_report.pdf
-├── final_presentation.pptx
-└── README.md
 ---
 
 
